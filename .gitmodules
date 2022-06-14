@@ -1,0 +1,6 @@
+[submodule "site"]
+	path = site
+	url = https://github.com/Anton-Kapustin/laravel-technofanateka.git
+[submodule "laravel-technofanateka"]
+	path = laravel-technofanateka
+	url = https://github.com/Anton-Kapustin/laravel-technofanateka.git
